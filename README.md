@@ -1,6 +1,6 @@
 # Calculadora de comida de perros
 Simple calculadora en Python que calcula cuanto debe comer un perro al día y en ciertas raciones.
-Cualquier mejora posible puede ser comunicada en Issues y se intentará aplicar en el menor tiempo posible.ç
+Cualquier mejora posible puede ser comunicada en Issues y se intentará aplicar en el menor tiempo posible.
 
 # REQUISITOS DEL SISTEMA
 Cualquier sistema con Python puede ejecutar el siguiente programa.
